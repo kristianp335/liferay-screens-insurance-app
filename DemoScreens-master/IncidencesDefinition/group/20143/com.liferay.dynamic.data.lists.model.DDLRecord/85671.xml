@@ -1,0 +1,29 @@
+<DDLRecord>
+  <__cachedModel>false</__cachedModel>
+  <__new>false</__new>
+  <__uuid>c1c41598-92ab-3162-cb1c-455d6ffc4f85</__uuid>
+  <__originalUuid>c1c41598-92ab-3162-cb1c-455d6ffc4f85</__originalUuid>
+  <__recordId>85671</__recordId>
+  <__groupId>20143</__groupId>
+  <__originalGroupId>20143</__originalGroupId>
+  <__setOriginalGroupId>false</__setOriginalGroupId>
+  <__companyId>20116</__companyId>
+  <__originalCompanyId>20116</__originalCompanyId>
+  <__setOriginalCompanyId>false</__setOriginalCompanyId>
+  <__userId>20156</__userId>
+  <__originalUserId>20156</__originalUserId>
+  <__setOriginalUserId>false</__setOriginalUserId>
+  <__userName>Test Test</__userName>
+  <__versionUserId>20156</__versionUserId>
+  <__versionUserName>Test Test</__versionUserName>
+  <__createDate class="sql-timestamp">2017-11-23 14:35:39.224</__createDate>
+  <__modifiedDate class="sql-timestamp">2017-11-23 14:53:45.553</__modifiedDate>
+  <__setModifiedDate>false</__setModifiedDate>
+  <__DDMStorageId>85685</__DDMStorageId>
+  <__recordSetId>85304</__recordSetId>
+  <__originalRecordSetId>85304</__originalRecordSetId>
+  <__setOriginalRecordSetId>false</__setOriginalRecordSetId>
+  <__version>1.4</__version>
+  <__displayIndex>0</__displayIndex>
+  <__columnBitmask>0</__columnBitmask>
+</DDLRecord>

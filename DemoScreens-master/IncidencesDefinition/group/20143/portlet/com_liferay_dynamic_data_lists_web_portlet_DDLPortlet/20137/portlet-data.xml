@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+
+<DDLPortletDataHandler>
+	<DDLRecordSet>
+		<staged-model group-id="20143" uuid="17ae3347-0435-3f69-bbd5-98e1187f1c8d" path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecordSet/85304.xml">
+			<references>
+				<reference class-name="com.liferay.dynamic.data.mapping.model.DDMStructure" class-pk="85300" attached-class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet" group-id="20143" live-group-id="20143" type="strong" uuid="08208cf8-2fa1-8d05-7f26-da86f5aba41e" company-id="20116" preloaded="false" referenced-class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet" structure-key="85299" missing="false"/>
+			</references>
+		</staged-model>
+	</DDLRecordSet>
+	<DDMStructure>
+		<staged-model group-id="20143" uuid="08208cf8-2fa1-8d05-7f26-da86f5aba41e" ddm-form-path="/group/20143/com.liferay.dynamic.data.mapping.model.DDMStructure/85300/ddm-form.json" ddm-data-provider-instance-ids="" ddm-form-layout-path="/group/20143/com.liferay.dynamic.data.mapping.model.DDMStructure/85300/ddm-form-layout.json" path="/group/20143/com.liferay.dynamic.data.mapping.model.DDMStructure/85300.xml" attached-class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet"/>
+	</DDMStructure>
+	<DDLRecord>
+		<staged-model group-id="20143" uuid="d2e54080-4f6a-2123-4cd6-79b0cc9668f7" ddm-form-values-path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85651/ddm-form-values.json" path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85651.xml" asset-priority="0.0">
+			<references>
+				<reference class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet" class-pk="85304" group-id="20143" live-group-id="20143" type="strong" uuid="17ae3347-0435-3f69-bbd5-98e1187f1c8d" company-id="20116" missing="false"/>
+			</references>
+		</staged-model>
+		<staged-model group-id="20143" uuid="4e77f5ac-89b6-ab1f-ec10-b9e2e2097e3d" ddm-form-values-path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85656/ddm-form-values.json" path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85656.xml" asset-priority="0.0">
+			<references>
+				<reference class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet" class-pk="85304" group-id="20143" live-group-id="20143" type="strong" uuid="17ae3347-0435-3f69-bbd5-98e1187f1c8d" company-id="20116" missing="false"/>
+			</references>
+		</staged-model>
+		<staged-model group-id="20143" uuid="c1c41598-92ab-3162-cb1c-455d6ffc4f85" ddm-form-values-path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85671/ddm-form-values.json" path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85671.xml" asset-priority="0.0">
+			<references>
+				<reference class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet" class-pk="85304" group-id="20143" live-group-id="20143" type="strong" uuid="17ae3347-0435-3f69-bbd5-98e1187f1c8d" company-id="20116" missing="false"/>
+			</references>
+		</staged-model>
+		<staged-model group-id="20143" uuid="ae4871e2-6873-04b3-0165-7bd5b4f183e7" ddm-form-values-path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85688/ddm-form-values.json" path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85688.xml" asset-priority="0.0">
+			<references>
+				<reference class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet" class-pk="85304" group-id="20143" live-group-id="20143" type="strong" uuid="17ae3347-0435-3f69-bbd5-98e1187f1c8d" company-id="20116" missing="false"/>
+			</references>
+		</staged-model>
+		<staged-model group-id="20143" uuid="0c4b1ad6-c3d0-ab57-d642-c6ec3a69f1a7" ddm-form-values-path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85693/ddm-form-values.json" path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85693.xml" asset-priority="0.0">
+			<references>
+				<reference class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet" class-pk="85304" group-id="20143" live-group-id="20143" type="strong" uuid="17ae3347-0435-3f69-bbd5-98e1187f1c8d" company-id="20116" missing="false"/>
+			</references>
+		</staged-model>
+		<staged-model group-id="20143" uuid="be9013e0-ade7-c6bd-6c55-deea04af5260" ddm-form-values-path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85698/ddm-form-values.json" path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85698.xml" asset-priority="0.0">
+			<references>
+				<reference class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet" class-pk="85304" group-id="20143" live-group-id="20143" type="strong" uuid="17ae3347-0435-3f69-bbd5-98e1187f1c8d" company-id="20116" missing="false"/>
+			</references>
+		</staged-model>
+		<staged-model group-id="20143" uuid="e1266223-8d4e-b510-9c9b-8348e5bd928d" ddm-form-values-path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85703/ddm-form-values.json" path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85703.xml" asset-priority="0.0">
+			<references>
+				<reference class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet" class-pk="85304" group-id="20143" live-group-id="20143" type="strong" uuid="17ae3347-0435-3f69-bbd5-98e1187f1c8d" company-id="20116" missing="false"/>
+			</references>
+		</staged-model>
+		<staged-model group-id="20143" uuid="8c6a57fc-047e-deb1-a74e-59297c8f34c4" ddm-form-values-path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85708/ddm-form-values.json" path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85708.xml" asset-priority="0.0">
+			<references>
+				<reference class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet" class-pk="85304" group-id="20143" live-group-id="20143" type="strong" uuid="17ae3347-0435-3f69-bbd5-98e1187f1c8d" company-id="20116" missing="false"/>
+			</references>
+		</staged-model>
+		<staged-model group-id="20143" uuid="e5e68eda-7267-230c-09f5-6c1763140e10" ddm-form-values-path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85713/ddm-form-values.json" path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85713.xml" asset-priority="0.0">
+			<references>
+				<reference class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet" class-pk="85304" group-id="20143" live-group-id="20143" type="strong" uuid="17ae3347-0435-3f69-bbd5-98e1187f1c8d" company-id="20116" missing="false"/>
+			</references>
+		</staged-model>
+		<staged-model group-id="20143" uuid="9ef2e8f6-8f04-1351-0ca4-81f3c2ee66c2" ddm-form-values-path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85718/ddm-form-values.json" path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85718.xml" asset-priority="0.0">
+			<references>
+				<reference class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet" class-pk="85304" group-id="20143" live-group-id="20143" type="strong" uuid="17ae3347-0435-3f69-bbd5-98e1187f1c8d" company-id="20116" missing="false"/>
+			</references>
+		</staged-model>
+		<staged-model group-id="20143" uuid="e034834c-67f8-d040-1b8f-e615f3ffc9a5" ddm-form-values-path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85723/ddm-form-values.json" path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85723.xml" asset-priority="0.0">
+			<references>
+				<reference class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet" class-pk="85304" group-id="20143" live-group-id="20143" type="strong" uuid="17ae3347-0435-3f69-bbd5-98e1187f1c8d" company-id="20116" missing="false"/>
+			</references>
+		</staged-model>
+		<staged-model group-id="20143" uuid="28e41137-17f1-3f2b-c0b8-ed2eea821077" ddm-form-values-path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85728/ddm-form-values.json" path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85728.xml" asset-priority="0.0">
+			<references>
+				<reference class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet" class-pk="85304" group-id="20143" live-group-id="20143" type="strong" uuid="17ae3347-0435-3f69-bbd5-98e1187f1c8d" company-id="20116" missing="false"/>
+			</references>
+		</staged-model>
+		<staged-model group-id="20143" uuid="5c5b0ddb-7804-c7c3-a83e-9481d2f46d67" ddm-form-values-path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85733/ddm-form-values.json" path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85733.xml" asset-priority="0.0">
+			<references>
+				<reference class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet" class-pk="85304" group-id="20143" live-group-id="20143" type="strong" uuid="17ae3347-0435-3f69-bbd5-98e1187f1c8d" company-id="20116" missing="false"/>
+			</references>
+		</staged-model>
+		<staged-model group-id="20143" uuid="e6b2f5a7-f31c-7363-3b45-bf8117b3c96c" ddm-form-values-path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85738/ddm-form-values.json" path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/85738.xml" asset-priority="0.0">
+			<references>
+				<reference class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet" class-pk="85304" group-id="20143" live-group-id="20143" type="strong" uuid="17ae3347-0435-3f69-bbd5-98e1187f1c8d" company-id="20116" missing="false"/>
+			</references>
+		</staged-model>
+		<staged-model group-id="20143" uuid="ef3ba745-afc6-e1b3-88f6-805e2024b858" ddm-form-values-path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/105700/ddm-form-values.json" path="/group/20143/com.liferay.dynamic.data.lists.model.DDLRecord/105700.xml" asset-priority="0.0">
+			<references>
+				<reference class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet" class-pk="85304" group-id="20143" live-group-id="20143" type="strong" uuid="17ae3347-0435-3f69-bbd5-98e1187f1c8d" company-id="20116" missing="false"/>
+				<reference class-name="com.liferay.document.library.kernel.model.DLFileEntry" class-pk="67088" group-id="20143" live-group-id="20143" type="dependency" uuid="917a25af-4eb5-edc4-4fe7-b1754b92819e" company-id="20116" missing="false"/>
+			</references>
+		</staged-model>
+	</DDLRecord>
+	<DLFileEntry>
+		<staged-model group-id="20143" uuid="917a25af-4eb5-edc4-4fe7-b1754b92819e" bin-path="/group/20143/com.liferay.document.library.kernel.model.DLFileEntry/67088/1.0" path="/group/20143/com.liferay.document.library.kernel.model.DLFileEntry/67088.xml" asset-priority="0.0"/>
+	</DLFileEntry>
+</DDLPortletDataHandler>

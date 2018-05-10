@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	tools:context="com.liferay.myapplication.fragments.IncidencesFragment"
+	android:orientation="vertical"
+	>
+
+	<com.liferay.mobile.screens.ddl.list.DDLListScreenlet
+		android:id="@+id/incidence_list_screenlet"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		app:recordSetId="@string/recordsetId"
+		app:autoLoad="true"
+		app:layoutId="@layout/ddl_list_custom"
+		/>
+
+</LinearLayout>

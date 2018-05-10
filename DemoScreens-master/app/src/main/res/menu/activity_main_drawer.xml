@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<group android:checkableBehavior="single">
+
+		<item
+			android:id="@+id/news"
+			android:icon="@drawable/ic_library_books_black_24dp"
+			android:title="@string/news"/>
+
+		<item
+			android:id="@+id/report_incidence"
+			android:icon="@drawable/ic_build_black_24dp"
+			android:title="@string/report_incidence"/>
+
+		<item
+			android:id="@+id/incidences"
+			android:icon="@drawable/ic_view_list_black_24dp"
+			android:title="@string/incidence"/>
+
+		<item
+			android:icon="@drawable/ic_chat_black_24dp"
+			android:id="@+id/contact"
+			android:title="@string/contact"/>
+
+		<item
+			android:icon="@drawable/ic_exit_to_app_black_24dp"
+			android:id="@+id/exit"
+			android:title="@string/exit"/>
+
+	</group>
+
+</menu>

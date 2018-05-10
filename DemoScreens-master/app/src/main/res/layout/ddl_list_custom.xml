@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.liferay.myapplication.viewsets.CustomDDLListView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/liferay_list_screenlet"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	>
+
+	<ProgressBar
+		android:id="@+id/liferay_progress"
+		android:layout_width="0dp"
+		android:layout_height="0dp"
+		android:layout_gravity="center"
+		android:visibility="gone"
+		/>
+
+
+	<android.support.v4.widget.SwipeRefreshLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:id="@+id/swipe_refresh"
+		>
+
+		<android.support.v7.widget.RecyclerView
+			android:id="@+id/liferay_recycler_list"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:visibility="gone"
+			/>
+
+	</android.support.v4.widget.SwipeRefreshLayout>
+
+</com.liferay.myapplication.viewsets.CustomDDLListView>

@@ -1,0 +1,23 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	tools:context="com.liferay.myapplication.fragments.ReportIncidenceFragment"
+	>
+
+
+	<com.liferay.mobile.screens.ddl.form.DDLFormScreenlet
+		android:id="@+id/report_incidence_form"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		app:recordSetId="@string/recordsetId"
+		app:structureId="@string/structureId"
+		app:repositoryId="@string/liferay_group_id"
+		app:folderId="42443"
+		app:geoFieldLayoutId="@layout/ddl_field_geo_custom"
+		app:layoutId="@layout/ddl_form_pager_custom"
+		app:documentFieldLayoutId="@layout/ddlfield_document_custom"
+		/>
+
+</FrameLayout>

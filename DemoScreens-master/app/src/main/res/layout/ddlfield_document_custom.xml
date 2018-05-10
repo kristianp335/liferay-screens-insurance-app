@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.liferay.myapplication.viewsets.DDLDocumentFieldView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical"
+	android:padding="10dp"
+	>
+
+	<TextView
+		android:id="@+id/liferay_ddl_label"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:visibility="invisible"		/>
+
+	<FrameLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		>
+
+		<EditText
+			android:id="@+id/liferay_ddl_edit_text"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:clickable="true"
+			android:drawableEnd="@drawable/material_tinted_perm_media"
+			android:drawableRight="@drawable/material_tinted_perm_media"
+			android:editable="false"
+			android:focusable="false"
+			android:inputType="none"
+			android:labelFor="@+id/liferay_ddl_edit_text"
+			android:padding="5dp"
+			/>
+
+		<ProgressBar
+			android:id="@+id/liferay_document_progress"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:layout_gravity="right|center_vertical"
+			android:visibility="invisible"
+			/>
+	</FrameLayout>
+
+	<ImageView
+		android:layout_marginTop="20dp"
+		android:id="@+id/preview_image"
+		android:layout_width="250dp"
+		android:layout_height="250dp"
+		android:scaleType="center"
+		android:layout_gravity="center"
+		/>
+
+</com.liferay.myapplication.viewsets.DDLDocumentFieldView>

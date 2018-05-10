@@ -1,0 +1,27 @@
+<resources>
+
+	<string name="navigation_drawer_open">Open navigation drawer</string>
+	<string name="navigation_drawer_close">Close navigation drawer</string>
+
+	<string name="set_the_position_of_the_incidence">Set the location of the accident</string>
+	<string name="next">Next</string>
+	<string name="back">Back</string>
+	<string name="go_to_maps">Go to map</string>
+	<string name="report_incidence">Report accidents</string>
+	<string name="incidence">Your accidents</string>
+	<string name="contact">Chatbot</string>
+	<string name="help_arrived">Help just arrived</string>
+	<string name="help_is_on_the_way">Help is on the way!</string>
+	<string name="inform">Inform our employee about your accident</string>
+    <string name="incidence_item_text">Accident %1$d</string>
+    <string name="date_item_text">Date %1$s</string>
+    <string name="registration_item_text">Accident %1$s</string>
+	<string name="app_name">DXP Insurance</string>
+	<string name="news">Home</string>
+	<string name="exit">Close</string>
+
+
+	<string name="notification_title">Insurance</string>
+	<string name="notification_description">Helps is on the way. Click here to see more details</string>
+
+</resources>

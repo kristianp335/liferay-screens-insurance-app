@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<root>
+	<header available-locales="zh_CN,es_ES,ja_JP,nl_NL,hu_HU,pt_BR,de_DE,iw_IL,fi_FI,ca_ES,fr_FR,en_US" build-number="7010" export-date="Mon, 04 Dec 2017 10:32:48 +0000" type="portlet" company-id="20116" company-group-id="20152" group-id="20143" user-personal-site-group-id="20149" private-layout="true" root-portlet-id="com_liferay_dynamic_data_lists_web_portlet_DDLPortlet"/>
+	<missing-references/>
+	<portlet portlet-id="com_liferay_dynamic_data_lists_web_portlet_DDLPortlet" layout-id="1" path="/group/20143/portlet/com_liferay_dynamic_data_lists_web_portlet_DDLPortlet/20137/portlet.xml" portlet-data="true" schema-version="1.0.0" portlet-configuration="setup"/>
+	<manifest-summary>
+		<staged-model manifest-summary-key="com.liferay.dynamic.data.mapping.model.DDMStructure#com.liferay.dynamic.data.lists.model.DDLRecordSet" addition-count="1"/>
+		<staged-model manifest-summary-key="com.liferay.document.library.kernel.model.DLFileEntry" addition-count="1"/>
+		<staged-model manifest-summary-key="com.liferay.dynamic.data.lists.model.DDLRecordSet" addition-count="1"/>
+		<staged-model manifest-summary-key="com.liferay.dynamic.data.lists.model.DDLRecord" addition-count="15"/>
+	</manifest-summary>
+</root>

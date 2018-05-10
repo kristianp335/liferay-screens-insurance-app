@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	tools:context="com.liferay.myapplication.activities.IncidenceDetailActivity"
+	android:orientation="vertical"
+	>
+
+	<android.support.v7.widget.Toolbar
+		android:id="@+id/toolbar"
+		android:layout_width="match_parent"
+		android:layout_height="?attr/actionBarSize"
+		android:background="?attr/colorPrimary"
+		android:theme="@style/AppTheme.AppBarOverlay"
+		/>
+
+	<FrameLayout
+		android:layout_width="match_parent"
+		android:layout_height="0dp"
+		android:layout_weight="1"
+		>
+
+		<com.liferay.mobile.screens.ddl.form.DDLFormScreenlet
+			android:id="@+id/ddlform"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			app:recordSetId="@string/recordsetId"
+			app:structureId="@string/structureId"
+			app:updateEnabled="false"
+			app:geoFieldLayoutId="@layout/ddl_field_geo_view"
+			app:documentFieldLayoutId="@layout/ddlfield_document_custom_detail"
+			android:visibility="gone"
+			/>
+
+		<ProgressBar
+			android:id="@+id/progress_bar"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:visibility="visible"
+			/>
+
+	</FrameLayout>
+
+
+
+</LinearLayout>

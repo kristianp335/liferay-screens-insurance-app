@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+
+<expando-tables>
+	<expando-table class-name="com.liferay.document.library.kernel.model.DLFileEntry"/>
+	<expando-table class-name="com.liferay.dynamic.data.mapping.model.DDMStructure"/>
+	<expando-table class-name="com.liferay.dynamic.data.lists.model.DDLRecordSet"/>
+	<expando-table class-name="com.liferay.dynamic.data.lists.model.DDLRecord"/>
+</expando-tables>
